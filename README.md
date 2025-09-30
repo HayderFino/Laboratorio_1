@@ -8,6 +8,6 @@ cargru de un archovo  .txt desde la ramita 1
 creacion rama 2 a partir de main
 <img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/7c6e4c9a-e42f-403d-9875-5bb627211a0f" />
 cargue archivo desdes ramita 2
-
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/0223abf2-fb2f-4a49-8e27-225a20b7e319" />
 creacion rama 3 a partir de rama 2
 <img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/a7f1c309-e624-4949-9a68-141fd20723c9" />
