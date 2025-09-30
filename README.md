@@ -13,3 +13,5 @@ creacion rama 3 a partir de rama 2
 <img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/a7f1c309-e624-4949-9a68-141fd20723c9" />
 cargue a¿primer archivo desde rama 3
 <img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/cbcfc3d7-3203-4d89-875a-356c80b8b91e" />
+cargue segundo desde rama 3
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/c7eab591-8beb-4ab2-89e4-b8f179beec8e" />
